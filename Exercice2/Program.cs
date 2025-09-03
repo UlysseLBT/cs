@@ -50,7 +50,7 @@ switch (Pierre - Paul)
     case < 0:
         Console.WriteLine("Paul est plus âgé que Pierre.");
         break;
-    case == 0:
+    case 0:
         Console.WriteLine("Pierre et Paul ont le même âge.");
         break;
 }
