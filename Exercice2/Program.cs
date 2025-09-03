@@ -27,7 +27,7 @@ switch (note)
 }
 
 
-int Pierre = 12;
+int Pierre = 18;
 int Paul = 14;
 if (Pierre > Paul)
 {

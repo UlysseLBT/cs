@@ -1,0 +1,15 @@
+C:\Users\lskyr\Desktop\CS\ExerciceCSharp\bin\Debug\net9.0\ExerciceCSharp.exe
+C:\Users\lskyr\Desktop\CS\ExerciceCSharp\bin\Debug\net9.0\ExerciceCSharp.deps.json
+C:\Users\lskyr\Desktop\CS\ExerciceCSharp\bin\Debug\net9.0\ExerciceCSharp.runtimeconfig.json
+C:\Users\lskyr\Desktop\CS\ExerciceCSharp\bin\Debug\net9.0\ExerciceCSharp.dll
+C:\Users\lskyr\Desktop\CS\ExerciceCSharp\bin\Debug\net9.0\ExerciceCSharp.pdb
+C:\Users\lskyr\Desktop\CS\ExerciceCSharp\obj\Debug\net9.0\ExerciceCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lskyr\Desktop\CS\ExerciceCSharp\obj\Debug\net9.0\ExerciceCSharp.AssemblyInfoInputs.cache
+C:\Users\lskyr\Desktop\CS\ExerciceCSharp\obj\Debug\net9.0\ExerciceCSharp.AssemblyInfo.cs
+C:\Users\lskyr\Desktop\CS\ExerciceCSharp\obj\Debug\net9.0\ExerciceCSharp.csproj.CoreCompileInputs.cache
+C:\Users\lskyr\Desktop\CS\ExerciceCSharp\obj\Debug\net9.0\ExerciceCSharp.sourcelink.json
+C:\Users\lskyr\Desktop\CS\ExerciceCSharp\obj\Debug\net9.0\ExerciceCSharp.dll
+C:\Users\lskyr\Desktop\CS\ExerciceCSharp\obj\Debug\net9.0\refint\ExerciceCSharp.dll
+C:\Users\lskyr\Desktop\CS\ExerciceCSharp\obj\Debug\net9.0\ExerciceCSharp.pdb
+C:\Users\lskyr\Desktop\CS\ExerciceCSharp\obj\Debug\net9.0\ExerciceCSharp.genruntimeconfig.cache
+C:\Users\lskyr\Desktop\CS\ExerciceCSharp\obj\Debug\net9.0\ref\ExerciceCSharp.dll
