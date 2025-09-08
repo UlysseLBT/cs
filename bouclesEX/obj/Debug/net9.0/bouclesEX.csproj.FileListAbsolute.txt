@@ -1,0 +1,15 @@
+C:\Users\lskyr\Desktop\CS\bouclesEX\obj\Debug\net9.0\bouclesEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lskyr\Desktop\CS\bouclesEX\obj\Debug\net9.0\bouclesEX.AssemblyInfoInputs.cache
+C:\Users\lskyr\Desktop\CS\bouclesEX\obj\Debug\net9.0\bouclesEX.AssemblyInfo.cs
+C:\Users\lskyr\Desktop\CS\bouclesEX\obj\Debug\net9.0\bouclesEX.csproj.CoreCompileInputs.cache
+C:\Users\lskyr\Desktop\CS\bouclesEX\obj\Debug\net9.0\bouclesEX.sourcelink.json
+C:\Users\lskyr\Desktop\CS\bouclesEX\bin\Debug\net9.0\bouclesEX.exe
+C:\Users\lskyr\Desktop\CS\bouclesEX\bin\Debug\net9.0\bouclesEX.deps.json
+C:\Users\lskyr\Desktop\CS\bouclesEX\bin\Debug\net9.0\bouclesEX.runtimeconfig.json
+C:\Users\lskyr\Desktop\CS\bouclesEX\bin\Debug\net9.0\bouclesEX.dll
+C:\Users\lskyr\Desktop\CS\bouclesEX\bin\Debug\net9.0\bouclesEX.pdb
+C:\Users\lskyr\Desktop\CS\bouclesEX\obj\Debug\net9.0\bouclesEX.dll
+C:\Users\lskyr\Desktop\CS\bouclesEX\obj\Debug\net9.0\refint\bouclesEX.dll
+C:\Users\lskyr\Desktop\CS\bouclesEX\obj\Debug\net9.0\bouclesEX.pdb
+C:\Users\lskyr\Desktop\CS\bouclesEX\obj\Debug\net9.0\bouclesEX.genruntimeconfig.cache
+C:\Users\lskyr\Desktop\CS\bouclesEX\obj\Debug\net9.0\ref\bouclesEX.dll

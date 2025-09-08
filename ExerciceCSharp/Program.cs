@@ -27,7 +27,7 @@
     int produit = A * B;
     Console.WriteLine("Le produit de A et B est : " + produit);
 
-    int quotient = A / B;
+    double quotient = (double)A / B;
     Console.WriteLine("Le quotient de A et B est : " + quotient);
 
 
