@@ -71,6 +71,5 @@ int som = 0;
 foreach (int nbr in nombres)
 {
     som += nbr;
-
 }
-Console.WriteLine($"La somme des nombres est : {som}");
+Console.WriteLine($"La somme des nombres est : {som}"); 
