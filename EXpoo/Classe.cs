@@ -1,1 +1,4 @@
-class Compte;
+class Compte
+{
+    
+}
