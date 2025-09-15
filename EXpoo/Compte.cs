@@ -8,9 +8,12 @@ public class Compte
         {
             return solde;
         }
-        private set
+        set
         {
             solde = value;
         }
     }
 }
+
+//ajouter a la classe compte une méthode afficher() qui affiche les détails du compte (solde)
+
