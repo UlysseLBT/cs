@@ -4,7 +4,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Création d’un titulaire
         Titulaire titulaire = new Titulaire
         {
             Id = 1,
@@ -17,10 +16,21 @@ class Program
             Email = "alice.durand@email.com"
         };
 
-        // Création d’un compte
         Compte compte = new Compte(1500m, titulaire);
 
-        // Affichage des infos
+        // Affiche le compte initial
+        compte.Afficher();
+
+        // On crédite 500 €
+        compte.Crediter(500);
+        compte.Afficher();
+
+        // On débite 300 €
+        compte.Debiter(300);
+        compte.Afficher();
+
+        // Tentative de débit supérieur au solde
+        compte.Debiter(3000);
         compte.Afficher();
     }
 }

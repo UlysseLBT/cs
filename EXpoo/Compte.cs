@@ -24,6 +24,32 @@ public class Compte
         Titulaire = titulaire;
     }
 
+    // Méthode pour créditer le compte
+    public void Crediter(decimal montant)
+    {
+        if (montant > 0)
+            Solde += montant;
+        else
+            Console.WriteLine("Le montant à créditer doit être positif.");
+    }
+
+    // Méthode pour débiter le compte
+    public void Debiter(decimal montant)
+    {
+        if (montant <= 0)
+        {
+            Console.WriteLine("Le montant à débiter doit être positif.");
+        }
+        else if (montant > Solde)
+        {
+            Console.WriteLine("Fonds insuffisants, opération refusée.");
+        }
+        else
+        {
+            Solde -= montant;
+        }
+    }
+
     public void Afficher()
     {
         Console.WriteLine($"--- Informations du compte ---");
