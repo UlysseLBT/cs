@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lskyr\\Desktop\\CS\\EX3\\EX3.csproj",
-      "projectName": "EX3",
-      "projectPath": "C:\\Users\\lskyr\\Desktop\\CS\\EX3\\EX3.csproj",
+      "projectUniqueName": "C:\\Users\\lskyr\\Desktop\\CS\\EXpoo\\EXpoo.csproj",
+      "projectName": "EXpoo",
+      "projectPath": "C:\\Users\\lskyr\\Desktop\\CS\\EXpoo\\EXpoo.csproj",
       "packagesPath": "C:\\Users\\lskyr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lskyr\\Desktop\\CS\\EX3\\obj\\",
+      "outputPath": "C:\\Users\\lskyr\\Desktop\\CS\\EXpoo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lskyr\\AppData\\Roaming\\NuGet\\NuGet.Config"

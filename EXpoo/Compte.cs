@@ -1,9 +1,4 @@
-
-class Compte
+public class Compte
 {
-    public Compte()
-    {
-        Solde = 0.0;
-    }
-    public double Solde { get; set; }
+    public decimal Solde { get; private set; }
 }

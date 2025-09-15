@@ -1,0 +1,5 @@
+C:\Users\lskyr\Desktop\CS\EXpoo\obj\Debug\net9.0\EXpoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lskyr\Desktop\CS\EXpoo\obj\Debug\net9.0\EXpoo.AssemblyInfoInputs.cache
+C:\Users\lskyr\Desktop\CS\EXpoo\obj\Debug\net9.0\EXpoo.AssemblyInfo.cs
+C:\Users\lskyr\Desktop\CS\EXpoo\obj\Debug\net9.0\EXpoo.csproj.CoreCompileInputs.cache
+C:\Users\lskyr\Desktop\CS\EXpoo\obj\Debug\net9.0\EXpoo.sourcelink.json
