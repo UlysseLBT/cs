@@ -4,6 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        // Création d’un titulaire
         Titulaire titulaire = new Titulaire
         {
             Id = 1,
@@ -16,6 +17,7 @@ class Program
             Email = "alice.durand@email.com"
         };
 
+        // Création d’un compte
         Compte compte = new Compte(1500m, titulaire);
 
         // Affiche le compte initial
@@ -32,5 +34,17 @@ class Program
         // Tentative de débit supérieur au solde
         compte.Debiter(3000);
         compte.Afficher();
+
+        Console.WriteLine("\n============================\n");
+
+        // Création d’un tableau de prénoms
+        string[] prenoms = { "Alice", "Bob", "Claire", "David", "Emma" };
+
+        // Affichage avec foreach
+        Console.WriteLine("--- Liste des prénoms ---");
+        foreach (string prenom in prenoms)
+        {
+            Console.WriteLine(prenom);
+        }
     }
 }
