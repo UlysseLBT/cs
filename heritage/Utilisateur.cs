@@ -26,10 +26,7 @@ public class Client : Utilisateur
     {
         Adresse = "";
     }
-    public Client(string prenom, string nom, string adresse) : base(prenom, nom)
-    {
-        Adresse = adresse;
-    }
+
     public string Adresse { get; set; }
     public new void Afficher()
     {
