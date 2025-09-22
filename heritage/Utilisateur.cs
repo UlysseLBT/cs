@@ -8,7 +8,11 @@
         Nom = "";
         Prenom = "";
     }
-
+    public Utilisateur(string prenom, string nom)
+    {
+        Nom = nom;
+        Prenom = prenom;
+    }
             public void Afficher()
     {
         System.Console.WriteLine($"Utilisateur : Je m'appelle {Prenom} {Nom}");
@@ -26,7 +30,10 @@ public class Client : Utilisateur
     {
         Adresse = "";
     }
-
+    public Client(string prenom, string nom, string adresse) : base(prenom, nom)
+    {
+        Adresse = adresse;
+    }
     public string Adresse { get; set; }
     public new void Afficher()
     {
@@ -41,6 +48,10 @@ public class Employe : Utilisateur
     public Employe()
     {
         Poste = "";
+    }
+    public Employe(string prenom, string nom, string poste) : base(prenom, nom)
+    {
+        Poste = poste;
     }
     public string Poste { get; set; }
     public new void Afficher()
