@@ -1,7 +1,11 @@
-﻿class Heritage
+﻿namespace heritage
 {
-    static void Main()
+    public class Heritage
     {
-        System.Console.WriteLine("Hello, Heritage!");
+        public void Main(string[] args)
+        {
+
+        }
+
     }
 }
